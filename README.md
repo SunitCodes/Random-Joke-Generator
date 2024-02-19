@@ -1,4 +1,4 @@
-# <h5>Random-Joke-Generator</h5><br>
+# Random-Joke-Generator<br>
 <h3>Welcome to the Random Joke Generator! This project is a simple web application that generates random jokes using HTML, CSS, and JavaScript.</h3>
 
 <h5>LANGUAGES USED</h5><br>
